@@ -20,7 +20,7 @@
 }
 .movie-details {
   text-align: left; /* 텍스트 왼쪽 정렬 */
-  margin-top: 1rem;
+  margin-top: 3px;
   line-height: 1.8; /* 항목 간 간격 추가 */
 }
 
