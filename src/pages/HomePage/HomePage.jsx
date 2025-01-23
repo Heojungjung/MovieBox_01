@@ -36,7 +36,8 @@ const HomePage = () => {
 // 페이지 전체 스타일
 const pageStyle = {
   backgroundColor: "#0D1117",
-  color: "#FFFFFF"
+  color: "#FFFFFF",
+  paddingBottom : " 2rem"
 };
 
 // 섹션 제목 스타일
