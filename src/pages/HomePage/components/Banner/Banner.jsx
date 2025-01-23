@@ -66,8 +66,8 @@ const Banner = () => {
         backgroundImage: `
           linear-gradient(
             to left,
-            rgba(0, 0, 0, 0.5), 
-            rgba(0, 0, 0, 0.9)  
+            rgba(0, 0, 0, 0.05), 
+            rgba(0, 0, 0, 0.19)  
           ),
           url(https://media.themoviedb.org/t/p/w533_and_h300_bestv2/${movie.backdrop_path})
         `,
