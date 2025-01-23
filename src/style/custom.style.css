@@ -82,61 +82,61 @@ body{
 }
 /* 텍스트 스타일 */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Poppins", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
   font-weight: bold;
 }
 
 p {
-  font-family: "Poppins", "Noto Sans KR", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
   line-height: 1.6;
 }
 
 :lang(ko) h1, :lang(ko) h2, :lang(ko) h3, :lang(ko) h4, :lang(ko) h5, :lang(ko) h6 {
-  font-family: "Noto Sans KR", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
 }
 
 :lang(ko) p {
-  font-family: "Noto Sans KR", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
 }
 
 .text-primary {
-  font-family: "Poppins", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
   font-weight: bold;
   color: var(--primary-color);
 }
 
 .text-secondary {
-  font-family: "Poppins", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
   font-weight: bold;
   color: var(--secondary-color);
 }
 
 .text-tertiary {
-  font-family: "Poppins", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
   font-weight: bold;
   color: var(--tertiary-color);
 }
 
 .text-success {
-  font-family: "Poppins", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
   font-weight: bold;
   color: var(--success-color);
 }
 
 .text-error {
-  font-family: "Poppins", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
   font-weight: bold;
   color: var(--error-color);
 }
 
 .text-warning {
-  font-family: "Poppins", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
   font-weight: bold;
   color: var(--warning-color);
 }
 
 .text-neutral {
-  font-family: "Noto Sans KR", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
   font-weight: normal;
   color: var(--neutral-grey);
 }
@@ -144,28 +144,28 @@ p {
 /* 타이틀 스타일 */
 .title-large {
   font-size: 2rem;
-  font-family: "Poppins", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
   font-weight: bold;
   color: var(--primary-color);
 }
 
 .title-medium {
   font-size: 1.5rem;
-  font-family: "Poppins", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
   font-weight: bold;
   color: var(--secondary-color);
 }
 
 .title-small {
   font-size: 1.2rem;
-  font-family: "Poppins", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
   font-weight: bold;
   color: var(--tertiary-color);
 }
 
 /* 인용구 스타일 */
 blockquote {
-  font-family: "Noto Sans KR", serif;
+  font-family: 'HangamePoker', sans-serif;
   font-style: italic;
   color: var(--neutral-grey);
   padding: 1rem;
@@ -175,13 +175,13 @@ blockquote {
 
 /* 버튼 텍스트 스타일 */
 .btn-primary-text {
-  font-family: "Poppins", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
   font-weight: 600;
   color: var(--neutral-white);
 }
 
 .btn-secondary-text {
-  font-family: "Poppins", sans-serif;
+  font-family: 'HangamePoker', sans-serif;
   font-weight: 600;
   color: var(--neutral-white);
 }
