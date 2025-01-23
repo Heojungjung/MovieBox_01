@@ -61,7 +61,6 @@ const Banner = () => {
       style={{
         width: "100%",
         backgroundSize: "cover",
-        backgroundPosition: "center",
         padding:0,
         backgroundImage: `
           linear-gradient(
