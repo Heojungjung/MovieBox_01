@@ -89,7 +89,7 @@ const MovieDetailPage = () => {
         color: "#fff",
       }}
     >
-      <Container className="my-5 py-5 movie-detail-container">
+      <Container className="my-5 movie-detail-container">
         <Row>
           {/* 포스터 */}
           <Col md={4}>
