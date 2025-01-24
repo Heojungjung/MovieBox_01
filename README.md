@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 데모 바로가기  
-👉 [MovieBox 데모](https://your-demo-link.com](https://movieboxheojung.netlify.app/)  
+👉 [MovieBox 데모](https://movieboxheojung.netlify.app/)  
 
 ### **사용 예제**  
 - 🔍 **영화 검색**: 검색창에 "Inception"을 입력해 보세요.  
@@ -38,12 +38,15 @@ MovieBox는 TMDB API를 기반으로 영화와 TV 프로그램 정보를 제공�
 
 ## 📸 주요 화면
 
-| 홈 화면 | 리스트 페이지 | 디테일 페이지 |
-|---------|---------------|-------------|
+| 홈 화면 |
 | ![image](https://github.com/user-attachments/assets/a77709e1-829c-4a82-8ad3-7b62bd28c4ac)
-| ![image](https://github.com/user-attachments/assets/1bed6849-8be3-463f-904b-a678310e9a54)
-| ![image](https://github.com/user-attachments/assets/71f698a4-3558-4410-8cfc-e6273e7f96e1)
-|
+
+|리스트 페이지 |
+![image](https://github.com/user-attachments/assets/1bed6849-8be3-463f-904b-a678310e9a54)  
+
+| 디테일 페이지 |
+![image](https://github.com/user-attachments/assets/71f698a4-3558-4410-8cfc-e6273e7f96e1)
+
 
 ---
 
